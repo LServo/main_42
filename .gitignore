@@ -1,0 +1,7 @@
+.basecamp/
+.config/
+.local/
+.ssh/
+.vnc/
+.vscode/
+.zcompdump
